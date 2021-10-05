@@ -1,0 +1,26 @@
+{
+  "name": "ram-usage",
+  "version": "1.0.0",
+  "description": "App showing RAM usage with NodeJS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavoferreiradev/ram-usage.git"
+  },
+  "keywords": [
+    "ram",
+    "usage",
+    "memory",
+    "os",
+    "nodejs"
+  ],
+  "author": "Gustavo Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavoferreiradev/ram-usage/issues"
+  },
+  "homepage": "https://github.com/gustavoferreiradev/ram-usage#readme"
+}
